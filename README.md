@@ -1,7 +1,7 @@
 # Cupid's Game
 
 ## Overview
-Cupid's Game is a fun and interactive web-based game where players collect hearts to score points. The objective is to collect as many hearts as possible before reaching a score of 5.
+Cupid's Game is a fun and interactive web-based game where players collect hearts to score points. The objective is to reach a score of 5 to win.
 
 ## Project Structure
 ```
